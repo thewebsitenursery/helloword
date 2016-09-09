@@ -1,6 +1,5 @@
-# Growing Something Awesome
+# Helloworld An Awesome Coming Soon template for new web projects
 
-## Coming Soon template for new web projects
 ### Automatic redirect to video or image slider background depending on users device / browser
 
 Example at: https://thewebsitenursery.com/awesome
@@ -15,6 +14,6 @@ __fork for new projects and make changes:__
 __git clone into the root directory of new project webserver root:__
 
 cd /var/www/html
-git clone https://github.com/thewebsitenursery/growingsomethingawesome .
+git clone https://github.com/thewebsitenursery/helloworld .
 
 __Secure Project using Lets Encrypt__
