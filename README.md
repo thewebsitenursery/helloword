@@ -1,4 +1,5 @@
-# Helloworld An Awesome Coming Soon template for new web projects
+# Helloworld 
+## Awesome Coming Soon / HTML 5 Starter Template 
 
 ### Automatic redirect to video or image slider background depending on users device / browser
 
